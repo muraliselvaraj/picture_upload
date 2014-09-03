@@ -1,0 +1,26 @@
+body {
+	width: 95%;
+	height: 100%;
+	background-color: #f7f7f7;
+}
+
+.container {
+	margin: auto;
+	text-align: center;
+}
+
+.button {
+	margin: 20px auto;
+	width: 150px;
+	color: #aeaeb0;
+	height: 25px;
+	display: block;
+	cursor: pointer;
+	background-color: #2a2d33;
+	border: 1px solid #bdc2ca;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-webkit-border-radius: 5px;
+	-ms-webkit-border-radius: 5px;
+	-o-webkit-border-radius: 5px;
+}
